@@ -42,11 +42,14 @@ To improve the health of the child and the mother, thus leading to a healthier p
 
 2. #### Vision: 
 To add the following services in future versions-
-    A. #### BabyMall: 
+    
+  1. #### BabyMall: 
     A curator for the baby products which will search the minimum prized product out of those present on the dozens        of e-commerce website .We will provide a payment gateway for the purchase.
-    B. #### Stool Analyser: 
+    
+  2. #### Stool Analyser: 
     The user will be required to answer a predefined MCQ-type question. Based on the answers this service will predict the health of the user. The alternative approach for this approach will be using image-processing where the user will be just required to post the photo of the stool.
-    C. #### BMI Analyser: 
+    
+  3. #### BMI Analyser: 
     The user will enter his weight, age, height, gender and based upon the BMI of the user, this service will render user will nutrition advice.
 # COPYRIGHTS
 The project open-sourced under GNU GPLv3 license.
